@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Kush%20Radhanpura&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=KUSH%20RADHANPURA&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Computer+Science+%26+AI+Engineering+Student;Machine+Learning+Developer;Building+Cool+Things+with+AI;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Deep+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer;Machine+Learning+Developer;Python+%7C+C%2B%2B+Developer;Building+Cool+Things+with+AI;Always+Learning+Something+New"/>
 
 <br>
 
@@ -20,38 +20,57 @@
 
 ---
 
-# ⚔️ About Me
+# ⚡ System Information
 
-```python
-class KushRadhanpura:
+```bash
+$ whoami
 
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.education = "B.Tech CSE (AI)"
-        self.languages = ["Python", "C++", "JavaScript"]
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "LLMs",
-            "Backend Development",
-            "Computer Vision"
-        ]
+Name        : Kush Radhanpura
+Role        : AI Engineer
+Education   : B.Tech CSE (AI)
+Location    : India
 
-    def current_mission(self):
-        return [
-            "Building AI Applications",
-            "Mastering DSA",
-            "Creating Impactful Projects"
-        ]
+Status      : Online
+
+Current Focus:
+→ Machine Learning
+→ Deep Learning
+→ LLM Applications
+→ Backend Development
+→ DSA
 ```
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🧠 Neural Network
+
+```text
+                    ┌─────────────┐
+                    │    KUSH     │
+                    └──────┬──────┘
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+
+    AI/ML            Backend Dev          Problem Solving
+
+        │                  │                  │
+
+     PyTorch          FastAPI            DSA/C++
+
+     Scikit-Learn     PostgreSQL         LeetCode
+
+     Deep Learning    Docker             Competitive Coding
+```
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,fastapi,pytorch,tensorflow,git,github,docker,postgresql,mysql,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,fastapi,pytorch,tensorflow,docker,postgresql,mysql,git,github,linux,vscode"/>
 
 </div>
 
@@ -61,9 +80,9 @@ class KushRadhanpura:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kushradhanpura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kushradhanpura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kushradhanpura&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kushradhanpura&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,27 +96,7 @@ class KushRadhanpura:
 
 ---
 
-# 🚀 Current Quest
-
-- 🤖 Building AI & ML Projects
-- 📚 Strengthening Data Structures & Algorithms
-- ⚡ Learning System Design
-- 🔥 Exploring LLMs & Generative AI
-- 🐧 Daily Linux User
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kushradhanpura&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌌 Activity Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -107,31 +106,90 @@ class KushRadhanpura:
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kushradhanpura&theme=tokyonight&no-frame=true&column=7"/>
 
 </div>
 
 ---
 
-# ⚡ Fun Fact
+# 🔥 Current Missions
 
-```bash
-> while(alive){
->    eat();
->    code();
->    learn();
->    repeat();
-> }
+```yaml
+Learning:
+  - Advanced Machine Learning
+  - LLM Applications
+  - System Design
+  - MLOps
+
+Building:
+  - AI Applications
+  - FastAPI Projects
+  - Data Science Solutions
+
+Goals:
+  - Open Source Contributions
+  - Strong Engineering Fundamentals
+  - Production Ready AI Systems
 ```
 
 ---
 
+# 💻 Featured Projects
+
+## 🤖 AI Resume Analyzer
+Resume screening and candidate evaluation using NLP.
+
+## 📄 Document Intelligence System
+Extract structured insights from PDFs and documents.
+
+## 🧠 AI Chatbot
+Context-aware chatbot powered by modern AI models.
+
+## 📊 Analytics Dashboard
+Interactive data visualization and reporting platform.
+
+---
+
+# ⚔️ Developer Mindset
+
+```python
+while True:
+
+    learn()
+
+    build()
+
+    improve()
+
+    repeat()
+```
+
+---
+
+# 🌐 Connect
+
 <div align="center">
 
-### 「 Building the Future with AI ⚡ 」
+<a href="https://www.linkedin.com/in/kush-radhanpura">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kushsoni1675@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ Building Intelligent Systems One Commit at a Time ⚡
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0f0c29,50:302b63,100:24243e"/>
